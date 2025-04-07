@@ -1,0 +1,6 @@
+train: C:/Users/refad/Downloads/Desktop/uni files/year 3/project/Coding/all coding/train/images
+val: C:/Users/refad/Downloads/Desktop/uni files/year 3/project/Coding/all coding/val/images
+
+nc: 1
+names:
+  - heatmap
